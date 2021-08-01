@@ -1,0 +1,7 @@
+#Eula aceptado y permitido por VyxterHost. 
+#Eula accepted and allowed by VyxterHost. 
+#
+#Usted al utilizar nuestro servicio "Minecraft" estará aceptando estrictamente los términos de Mojang (https://account.mojang.com/documents/minecraft_eula).
+#By using our "Minecraft" service, you strictly agree to Mojang terms of use. (https://account.mojang.com/documents/minecraft_eula).
+
+eula=true
